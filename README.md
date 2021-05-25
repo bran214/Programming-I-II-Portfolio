@@ -24,13 +24,13 @@ We decided on a viking theme to make the game interesting and distinct. From our
 All graphics were created in Adobe Illustrator by Jacob Schwartz, and are displayed using Swing. We decided on Swing to display our graphics becuase we had been focused on Java this school year, and decided to use what we were most used to. The programming was divided by class between the group members so that everyone had a role to play in the project development.
 
 
-## Roles:
+### Roles:
 - Andrew Blodgett: Dice, Board, and Resource Programming
 - Maximilian Sutton: Settings, Character Creation, and Game Turn Logic Programming
 - Jacob Schwartz: Graphics, Project Management, and GUI Programming 
 - Brandon Winters: Natural Events and Event Generation
 
-## Gameplay Instructions:
+### Gameplay Instructions:
 
 After selecting the number of players and creating characters for each player, the game begins!  
 
@@ -41,11 +41,11 @@ In order, each player will take their turn:
 
 There are multiple ways to win. You could escape the island, collect enough magic to ascend, or be the last player alive on the island. Keep each win condition in mind as you play!  
 
-## Download Instructions:
+### Download Instructions:
 
 Download the zip file [here](https://github.com/bran214/Programming2GroupProject1/raw/main/GroupProject1.zip). Extract the contents, and run the jar file.
 
-## Year 2 Concepts: 
+### Year 2 Concepts: 
 - GUI
 - Enhanced For Loop
 - Overloading
@@ -56,6 +56,6 @@ Download the zip file [here](https://github.com/bran214/Programming2GroupProject
 - Inheritance
 - Ternary Statements
 
-## Documentation: 
+### Documentation: 
 ![ClassDiagram](https://github.com/bran214/Programming2GroupProject1/blob/main/ConceptArt/GroupProjectClassDiagram.png)
 ![IslandSurvivalIdea](https://github.com/bran214/Programming2GroupProject1/blob/main/ConceptArt/Isle%20of%20Laeso.jpg)
